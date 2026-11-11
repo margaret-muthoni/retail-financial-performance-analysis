@@ -1,0 +1,601 @@
+OrderID,OrderDate,Customer,Region,Category,Product,Quantity,UnitPrice,UnitCost,DiscountPct
+ORD-00508,2025-01-01,Customer 027,Eldoret,Furniture,Filing Cabinet,5,190,125.0,0.0
+ORD-00559,2025-01-02,Customer 077,Nakuru,Office Supplies,Notebook,5,6,2.2,0.2
+ORD-00417,2025-01-04,Customer 057,Kisumu,Office Supplies,Desk Organizer,7,18,8.0,0.05
+ORD-00390,2025-01-04,Customer 003,Eldoret,Furniture,Table,7,260,170.0,0.0
+ORD-00477,2025-01-05,Customer 028,Mombasa,Furniture,Desk,8,310,205.0,0.05
+ORD-00058,2025-01-05,Customer 005,Kisumu,Technology,Laptop,3,650,470.0,0.15
+ORD-00590,2025-01-05,Customer 036,Nakuru,Technology,Keyboard,5,35,18.0,0.2
+ORD-00429,2025-01-06,Customer 067,Eldoret,Technology,Keyboard,4,35,18.0,0.15
+ORD-00378,2025-01-08,Customer 062,Mombasa,Technology,Monitor,2,180,115.0,0.2
+ORD-00097,2025-01-10,Customer 029,Nairobi,Furniture,Table,1,260,170.0,0.05
+ORD-00323,2025-01-10,Customer 053,Mombasa,Office Supplies,Desk Organizer,7,18,8.0,0.0
+ORD-00589,2025-01-11,Customer 023,Eldoret,Furniture,Office Chair,8,220,145.0,0.0
+ORD-00356,2025-01-12,Customer 028,Eldoret,Office Supplies,Desk Organizer,1,18,8.0,0.2
+ORD-00362,2025-01-12,Customer 049,Mombasa,Office Supplies,Paper Pack,7,9,5.0,0.15
+ORD-00507,2025-01-13,Customer 002,Kisumu,Technology,Printer,6,140,92.0,0.2
+ORD-00180,2025-01-13,Customer 029,Nairobi,Furniture,Table,6,260,170.0,0.15
+ORD-00067,2025-01-15,Customer 034,Nairobi,Technology,Keyboard,3,35,18.0,0.15
+ORD-00438,2025-01-15,Customer 076,Nakuru,Furniture,Table,4,260,170.0,0.1
+ORD-00162,2025-01-15,Customer 046,Kisumu,Technology,Keyboard,1,35,18.0,0.05
+ORD-00587,2025-01-15,Customer 028,Mombasa,Office Supplies,Notebook,3,6,2.2,0.15
+ORD-00495,2025-01-16,Customer 009,Kisumu,Office Supplies,Paper Pack,5,9,5.0,0.15
+ORD-00003,2025-01-16,Customer 078,Nairobi,Technology,Monitor,4,180,115.0,0.15
+ORD-00364,2025-01-17,Customer 027,Nairobi,Furniture,Filing Cabinet,1,190,125.0,0.0
+ORD-00455,2025-01-17,Customer 057,Nairobi,Office Supplies,Desk Organizer,6,18,8.0,0.0
+ORD-00552,2025-01-18,Customer 014,Nairobi,Office Supplies,Notebook,6,6,2.2,0.05
+ORD-00280,2025-01-18,Customer 047,Kisumu,Technology,Laptop,4,650,470.0,0.2
+ORD-00160,2025-01-19,Customer 037,Mombasa,Furniture,Office Chair,4,220,145.0,0.2
+ORD-00156,2025-01-19,Customer 057,Nairobi,Technology,Printer,6,140,92.0,0.0
+ORD-00182,2025-01-20,Customer 031,Eldoret,Office Supplies,Paper Pack,2,9,5.0,0.0
+ORD-00339,2025-01-20,Customer 037,Nakuru,Technology,Keyboard,2,35,18.0,0.05
+ORD-00233,2025-01-20,Customer 012,Eldoret,Technology,Keyboard,5,35,18.0,0.0
+ORD-00518,2025-01-21,Customer 032,Kisumu,Technology,Keyboard,3,35,18.0,0.0
+ORD-00138,2025-01-21,Customer 024,Eldoret,Technology,Mouse,8,22,10.0,0.05
+ORD-00136,2025-01-21,Customer 012,Mombasa,Office Supplies,Desk Organizer,5,18,8.0,0.0
+ORD-00331,2025-01-22,Customer 033,Nakuru,Office Supplies,Notebook,6,6,2.2,0.1
+ORD-00524,2025-01-22,Customer 056,Nakuru,Office Supplies,Notebook,3,6,2.2,0.15
+ORD-00366,2025-01-23,Customer 028,Nairobi,Office Supplies,Paper Pack,4,9,5.0,0.15
+ORD-00510,2025-01-23,Customer 048,Nakuru,Technology,Printer,7,140,92.0,0.2
+ORD-00070,2025-01-23,Customer 069,Mombasa,Furniture,Filing Cabinet,1,190,125.0,0.15
+ORD-00435,2025-01-23,Customer 014,Mombasa,Furniture,Office Chair,1,220,145.0,0.05
+ORD-00499,2025-01-23,Customer 047,Nakuru,Technology,Monitor,1,180,115.0,0.1
+ORD-00268,2025-01-23,Customer 023,Nakuru,Office Supplies,Stapler,6,12,5.5,0.2
+ORD-00261,2025-01-25,Customer 015,Nakuru,Technology,Mouse,8,22,10.0,0.0
+ORD-00095,2025-01-26,Customer 059,Kisumu,Office Supplies,Paper Pack,6,9,5.0,0.0
+ORD-00039,2025-01-26,Customer 031,Mombasa,Furniture,Table,1,260,170.0,0.0
+ORD-00309,2025-01-26,Customer 069,Nairobi,Office Supplies,Paper Pack,8,9,5.0,0.05
+ORD-00082,2025-01-26,Customer 018,Nakuru,Furniture,Desk,2,310,205.0,0.1
+ORD-00044,2025-01-26,Customer 066,Nairobi,Furniture,Filing Cabinet,3,190,125.0,0.0
+ORD-00206,2025-01-27,Customer 014,Eldoret,Office Supplies,Stapler,5,12,5.5,0.05
+ORD-00497,2025-01-29,Customer 021,Kisumu,Office Supplies,Stapler,3,12,5.5,0.05
+ORD-00218,2025-01-29,Customer 018,Kisumu,Technology,Monitor,5,180,115.0,0.0
+ORD-00583,2025-01-30,Customer 047,Mombasa,Technology,Laptop,8,650,470.0,0.0
+ORD-00491,2025-01-30,Customer 059,Eldoret,Technology,Laptop,7,650,470.0,0.0
+ORD-00358,2025-01-31,Customer 053,Mombasa,Technology,Mouse,1,22,10.0,0.05
+ORD-00540,2025-01-31,Customer 068,Kisumu,Technology,Monitor,3,180,115.0,0.0
+ORD-00347,2025-02-01,Customer 021,Nakuru,Furniture,Office Chair,8,220,145.0,0.05
+ORD-00566,2025-02-01,Customer 061,Eldoret,Office Supplies,Stapler,7,12,5.5,0.15
+ORD-00594,2025-02-02,Customer 034,Kisumu,Office Supplies,Desk Organizer,6,18,8.0,0.05
+ORD-00571,2025-02-04,Customer 042,Kisumu,Technology,Mouse,7,22,10.0,0.15
+ORD-00032,2025-02-04,Customer 031,Kisumu,Technology,Keyboard,2,35,18.0,0.15
+ORD-00267,2025-02-04,Customer 043,Mombasa,Office Supplies,Pens,2,4,1.1,0.15
+ORD-00105,2025-02-05,Customer 063,Nairobi,Furniture,Bookshelf,1,160,105.0,0.1
+ORD-00221,2025-02-06,Customer 059,Nairobi,Office Supplies,Notebook,7,6,2.2,0.0
+ORD-00131,2025-02-06,Customer 076,Mombasa,Furniture,Desk,5,310,205.0,0.2
+ORD-00167,2025-02-07,Customer 055,Kisumu,Office Supplies,Desk Organizer,5,18,8.0,0.2
+ORD-00286,2025-02-07,Customer 041,Kisumu,Office Supplies,Pens,8,4,1.1,0.0
+ORD-00541,2025-02-07,Customer 039,Kisumu,Office Supplies,Paper Pack,2,9,5.0,0.05
+ORD-00050,2025-02-07,Customer 045,Nairobi,Furniture,Desk,5,310,205.0,0.0
+ORD-00357,2025-02-07,Customer 009,Eldoret,Technology,Mouse,6,22,10.0,0.2
+ORD-00547,2025-02-09,Customer 012,Kisumu,Technology,Keyboard,6,35,18.0,0.0
+ORD-00259,2025-02-10,Customer 071,Eldoret,Technology,Keyboard,4,35,18.0,0.0
+ORD-00010,2025-02-10,Customer 059,Kisumu,Technology,Laptop,7,650,470.0,0.05
+ORD-00489,2025-02-10,Customer 042,Nakuru,Furniture,Desk,3,310,205.0,0.15
+ORD-00298,2025-02-11,Customer 027,Eldoret,Technology,Printer,5,140,92.0,0.2
+ORD-00125,2025-02-13,Customer 077,Eldoret,Technology,Laptop,7,650,470.0,0.15
+ORD-00511,2025-02-13,Customer 051,Nairobi,Furniture,Office Chair,3,220,145.0,0.2
+ORD-00026,2025-02-13,Customer 017,Mombasa,Furniture,Filing Cabinet,2,190,125.0,0.15
+ORD-00475,2025-02-15,Customer 048,Kisumu,Furniture,Office Chair,2,220,145.0,0.05
+ORD-00562,2025-02-16,Customer 048,Nakuru,Furniture,Table,7,260,170.0,0.0
+ORD-00161,2025-02-16,Customer 022,Kisumu,Office Supplies,Notebook,2,6,2.2,0.1
+ORD-00554,2025-02-17,Customer 004,Nakuru,Office Supplies,Stapler,8,12,5.5,0.2
+ORD-00403,2025-02-20,Customer 078,Eldoret,Office Supplies,Pens,2,4,1.1,0.05
+ORD-00257,2025-02-20,Customer 005,Kisumu,Furniture,Bookshelf,3,160,105.0,0.0
+ORD-00365,2025-02-21,Customer 007,Mombasa,Furniture,Office Chair,8,220,145.0,0.15
+ORD-00246,2025-02-21,Customer 044,Eldoret,Furniture,Table,1,260,170.0,0.2
+ORD-00551,2025-02-21,Customer 058,Nairobi,Office Supplies,Stapler,4,12,5.5,0.0
+ORD-00498,2025-02-22,Customer 066,Nairobi,Furniture,Office Chair,4,220,145.0,0.2
+ORD-00228,2025-02-22,Customer 078,Mombasa,Technology,Keyboard,4,35,18.0,0.0
+ORD-00002,2025-02-22,Customer 055,Nairobi,Furniture,Table,2,260,170.0,0.15
+ORD-00440,2025-02-22,Customer 026,Nakuru,Furniture,Desk,6,310,205.0,0.05
+ORD-00432,2025-02-23,Customer 019,Kisumu,Office Supplies,Paper Pack,2,9,5.0,0.0
+ORD-00392,2025-02-24,Customer 025,Eldoret,Technology,Printer,3,140,92.0,0.0
+ORD-00081,2025-02-24,Customer 067,Nakuru,Office Supplies,Pens,3,4,1.1,0.2
+ORD-00023,2025-02-24,Customer 048,Mombasa,Furniture,Bookshelf,4,160,105.0,0.0
+ORD-00310,2025-02-25,Customer 047,Nakuru,Office Supplies,Pens,5,4,1.1,0.2
+ORD-00515,2025-02-25,Customer 060,Kisumu,Technology,Laptop,3,650,470.0,0.1
+ORD-00068,2025-02-25,Customer 041,Nakuru,Furniture,Filing Cabinet,6,190,125.0,0.2
+ORD-00333,2025-02-25,Customer 007,Eldoret,Furniture,Table,4,260,170.0,0.0
+ORD-00223,2025-02-28,Customer 080,Nakuru,Office Supplies,Notebook,6,6,2.2,0.0
+ORD-00101,2025-02-28,Customer 004,Kisumu,Technology,Keyboard,2,35,18.0,0.15
+ORD-00441,2025-02-28,Customer 050,Eldoret,Office Supplies,Paper Pack,6,9,5.0,0.15
+ORD-00194,2025-02-28,Customer 047,Eldoret,Furniture,Office Chair,8,220,145.0,0.1
+ORD-00444,2025-03-02,Customer 048,Mombasa,Technology,Keyboard,2,35,18.0,0.0
+ORD-00104,2025-03-03,Customer 055,Kisumu,Furniture,Office Chair,6,220,145.0,0.15
+ORD-00502,2025-03-03,Customer 067,Nairobi,Furniture,Office Chair,3,220,145.0,0.0
+ORD-00046,2025-03-03,Customer 011,Nakuru,Furniture,Desk,1,310,205.0,0.15
+ORD-00117,2025-03-03,Customer 069,Mombasa,Furniture,Desk,6,310,205.0,0.0
+ORD-00304,2025-03-04,Customer 013,Nairobi,Office Supplies,Paper Pack,4,9,5.0,0.0
+ORD-00008,2025-03-05,Customer 080,Kisumu,Office Supplies,Notebook,5,6,2.2,0.2
+ORD-00468,2025-03-05,Customer 055,Mombasa,Technology,Mouse,8,22,10.0,0.0
+ORD-00479,2025-03-05,Customer 041,Mombasa,Furniture,Filing Cabinet,6,190,125.0,0.1
+ORD-00189,2025-03-06,Customer 027,Eldoret,Furniture,Desk,2,310,205.0,0.15
+ORD-00296,2025-03-06,Customer 022,Eldoret,Furniture,Bookshelf,2,160,105.0,0.15
+ORD-00243,2025-03-07,Customer 055,Eldoret,Furniture,Table,2,260,170.0,0.2
+ORD-00242,2025-03-08,Customer 049,Kisumu,Furniture,Office Chair,5,220,145.0,0.15
+ORD-00220,2025-03-08,Customer 072,Kisumu,Office Supplies,Stapler,4,12,5.5,0.15
+ORD-00145,2025-03-09,Customer 004,Eldoret,Office Supplies,Paper Pack,8,9,5.0,0.0
+ORD-00192,2025-03-09,Customer 042,Nairobi,Technology,Keyboard,4,35,18.0,0.15
+ORD-00247,2025-03-09,Customer 024,Eldoret,Furniture,Filing Cabinet,3,190,125.0,0.0
+ORD-00374,2025-03-10,Customer 043,Nairobi,Office Supplies,Pens,5,4,1.1,0.0
+ORD-00579,2025-03-10,Customer 054,Eldoret,Office Supplies,Paper Pack,6,9,5.0,0.05
+ORD-00542,2025-03-11,Customer 041,Mombasa,Technology,Mouse,8,22,10.0,0.2
+ORD-00183,2025-03-11,Customer 070,Nakuru,Office Supplies,Paper Pack,6,9,5.0,0.2
+ORD-00359,2025-03-11,Customer 058,Nakuru,Furniture,Filing Cabinet,6,190,125.0,0.1
+ORD-00476,2025-03-12,Customer 068,Eldoret,Office Supplies,Pens,3,4,1.1,0.0
+ORD-00252,2025-03-12,Customer 071,Nairobi,Office Supplies,Notebook,8,6,2.2,0.05
+ORD-00317,2025-03-13,Customer 051,Eldoret,Office Supplies,Stapler,6,12,5.5,0.0
+ORD-00367,2025-03-13,Customer 074,Kisumu,Furniture,Bookshelf,4,160,105.0,0.2
+ORD-00386,2025-03-13,Customer 070,Nairobi,Furniture,Table,8,260,170.0,0.0
+ORD-00521,2025-03-13,Customer 017,Mombasa,Technology,Laptop,1,650,470.0,0.0
+ORD-00133,2025-03-14,Customer 077,Eldoret,Technology,Laptop,3,650,470.0,0.05
+ORD-00576,2025-03-15,Customer 051,Kisumu,Furniture,Table,7,260,170.0,0.0
+ORD-00211,2025-03-15,Customer 004,Nairobi,Furniture,Filing Cabinet,2,190,125.0,0.0
+ORD-00191,2025-03-16,Customer 015,Nairobi,Technology,Printer,5,140,92.0,0.0
+ORD-00383,2025-03-16,Customer 020,Mombasa,Technology,Keyboard,7,35,18.0,0.05
+ORD-00573,2025-03-17,Customer 073,Nairobi,Furniture,Table,2,260,170.0,0.0
+ORD-00500,2025-03-18,Customer 042,Mombasa,Technology,Laptop,7,650,470.0,0.0
+ORD-00241,2025-03-18,Customer 040,Nakuru,Office Supplies,Notebook,3,6,2.2,0.05
+ORD-00236,2025-03-19,Customer 011,Eldoret,Technology,Mouse,2,22,10.0,0.05
+ORD-00099,2025-03-20,Customer 015,Eldoret,Technology,Monitor,8,180,115.0,0.2
+ORD-00019,2025-03-20,Customer 009,Nakuru,Furniture,Desk,7,310,205.0,0.15
+ORD-00054,2025-03-21,Customer 044,Mombasa,Office Supplies,Desk Organizer,4,18,8.0,0.2
+ORD-00022,2025-03-22,Customer 023,Eldoret,Office Supplies,Notebook,5,6,2.2,0.15
+ORD-00063,2025-03-23,Customer 061,Mombasa,Furniture,Office Chair,7,220,145.0,0.0
+ORD-00011,2025-03-25,Customer 035,Nairobi,Office Supplies,Desk Organizer,4,18,8.0,0.2
+ORD-00457,2025-03-26,Customer 008,Eldoret,Furniture,Desk,4,310,205.0,0.0
+ORD-00248,2025-03-26,Customer 047,Mombasa,Furniture,Filing Cabinet,1,190,125.0,0.1
+ORD-00353,2025-03-26,Customer 027,Eldoret,Office Supplies,Stapler,8,12,5.5,0.0
+ORD-00277,2025-03-27,Customer 006,Kisumu,Furniture,Filing Cabinet,6,190,125.0,0.1
+ORD-00569,2025-03-27,Customer 055,Nairobi,Technology,Monitor,3,180,115.0,0.0
+ORD-00550,2025-03-27,Customer 070,Nakuru,Office Supplies,Paper Pack,7,9,5.0,0.05
+ORD-00452,2025-03-28,Customer 066,Nairobi,Office Supplies,Stapler,8,12,5.5,0.15
+ORD-00443,2025-03-30,Customer 018,Kisumu,Furniture,Bookshelf,2,160,105.0,0.2
+ORD-00164,2025-03-31,Customer 031,Nakuru,Technology,Printer,7,140,92.0,0.15
+ORD-00193,2025-03-31,Customer 054,Eldoret,Office Supplies,Notebook,3,6,2.2,0.2
+ORD-00370,2025-03-31,Customer 045,Nakuru,Furniture,Filing Cabinet,8,190,125.0,0.0
+ORD-00120,2025-04-02,Customer 006,Nairobi,Office Supplies,Notebook,3,6,2.2,0.05
+ORD-00361,2025-04-02,Customer 029,Nairobi,Furniture,Filing Cabinet,3,190,125.0,0.2
+ORD-00210,2025-04-03,Customer 001,Mombasa,Office Supplies,Desk Organizer,6,18,8.0,0.05
+ORD-00293,2025-04-04,Customer 067,Mombasa,Technology,Mouse,1,22,10.0,0.0
+ORD-00372,2025-04-05,Customer 039,Mombasa,Furniture,Filing Cabinet,4,190,125.0,0.0
+ORD-00342,2025-04-06,Customer 025,Mombasa,Technology,Keyboard,5,35,18.0,0.15
+ORD-00526,2025-04-06,Customer 005,Eldoret,Office Supplies,Desk Organizer,8,18,8.0,0.0
+ORD-00264,2025-04-06,Customer 068,Eldoret,Furniture,Office Chair,6,220,145.0,0.0
+ORD-00045,2025-04-06,Customer 031,Nakuru,Technology,Printer,2,140,92.0,0.2
+ORD-00446,2025-04-06,Customer 022,Nakuru,Office Supplies,Stapler,3,12,5.5,0.15
+ORD-00595,2025-04-07,Customer 077,Nakuru,Technology,Printer,4,140,92.0,0.0
+ORD-00118,2025-04-09,Customer 076,Eldoret,Technology,Mouse,5,22,10.0,0.2
+ORD-00523,2025-04-12,Customer 043,Nairobi,Furniture,Filing Cabinet,3,190,125.0,0.0
+ORD-00529,2025-04-13,Customer 070,Nairobi,Furniture,Table,4,260,170.0,0.2
+ORD-00560,2025-04-13,Customer 038,Nairobi,Technology,Laptop,4,650,470.0,0.0
+ORD-00064,2025-04-13,Customer 029,Nairobi,Office Supplies,Desk Organizer,5,18,8.0,0.0
+ORD-00382,2025-04-15,Customer 073,Mombasa,Office Supplies,Desk Organizer,7,18,8.0,0.0
+ORD-00400,2025-04-17,Customer 039,Mombasa,Furniture,Desk,7,310,205.0,0.0
+ORD-00398,2025-04-19,Customer 006,Nairobi,Furniture,Table,8,260,170.0,0.05
+ORD-00472,2025-04-20,Customer 029,Eldoret,Office Supplies,Notebook,3,6,2.2,0.15
+ORD-00285,2025-04-20,Customer 016,Mombasa,Furniture,Bookshelf,8,160,105.0,0.0
+ORD-00332,2025-04-20,Customer 035,Mombasa,Technology,Printer,5,140,92.0,0.15
+ORD-00201,2025-04-21,Customer 044,Nakuru,Office Supplies,Paper Pack,4,9,5.0,0.1
+ORD-00190,2025-04-21,Customer 001,Kisumu,Technology,Keyboard,3,35,18.0,0.15
+ORD-00006,2025-04-21,Customer 013,Kisumu,Office Supplies,Notebook,2,6,2.2,0.1
+ORD-00100,2025-04-22,Customer 078,Eldoret,Office Supplies,Desk Organizer,6,18,8.0,0.0
+ORD-00043,2025-04-22,Customer 041,Nairobi,Technology,Printer,1,140,92.0,0.2
+ORD-00451,2025-04-23,Customer 069,Kisumu,Office Supplies,Notebook,5,6,2.2,0.0
+ORD-00018,2025-04-23,Customer 007,Nairobi,Technology,Printer,8,140,92.0,0.0
+ORD-00226,2025-04-24,Customer 015,Eldoret,Office Supplies,Pens,2,4,1.1,0.15
+ORD-00114,2025-04-24,Customer 075,Kisumu,Office Supplies,Pens,5,4,1.1,0.2
+ORD-00546,2025-04-24,Customer 019,Kisumu,Furniture,Table,2,260,170.0,0.1
+ORD-00369,2025-04-24,Customer 072,Eldoret,Office Supplies,Desk Organizer,5,18,8.0,0.0
+ORD-00177,2025-04-26,Customer 051,Nairobi,Furniture,Filing Cabinet,6,190,125.0,0.0
+ORD-00078,2025-04-26,Customer 032,Nakuru,Technology,Monitor,1,180,115.0,0.0
+ORD-00126,2025-04-26,Customer 039,Eldoret,Furniture,Filing Cabinet,8,190,125.0,0.1
+ORD-00334,2025-04-26,Customer 053,Kisumu,Furniture,Desk,1,310,205.0,0.0
+ORD-00321,2025-04-27,Customer 068,Eldoret,Furniture,Office Chair,8,220,145.0,0.0
+ORD-00031,2025-04-28,Customer 008,Mombasa,Furniture,Desk,1,310,205.0,0.0
+ORD-00014,2025-04-28,Customer 009,Mombasa,Technology,Keyboard,7,35,18.0,0.05
+ORD-00538,2025-04-30,Customer 062,Nairobi,Furniture,Desk,1,310,205.0,0.15
+ORD-00256,2025-05-01,Customer 004,Kisumu,Office Supplies,Notebook,6,6,2.2,0.0
+ORD-00567,2025-05-01,Customer 005,Eldoret,Office Supplies,Desk Organizer,2,18,8.0,0.1
+ORD-00456,2025-05-02,Customer 079,Nakuru,Technology,Printer,6,140,92.0,0.2
+ORD-00509,2025-05-02,Customer 036,Nairobi,Office Supplies,Paper Pack,1,9,5.0,0.0
+ORD-00146,2025-05-03,Customer 002,Eldoret,Furniture,Desk,5,310,205.0,0.15
+ORD-00048,2025-05-03,Customer 039,Nakuru,Office Supplies,Paper Pack,3,9,5.0,0.2
+ORD-00585,2025-05-04,Customer 061,Eldoret,Office Supplies,Paper Pack,8,9,5.0,0.0
+ORD-00112,2025-05-04,Customer 031,Nakuru,Furniture,Filing Cabinet,8,190,125.0,0.15
+ORD-00436,2025-05-05,Customer 072,Nakuru,Furniture,Desk,3,310,205.0,0.05
+ORD-00149,2025-05-05,Customer 025,Eldoret,Office Supplies,Stapler,3,12,5.5,0.1
+ORD-00051,2025-05-06,Customer 070,Kisumu,Office Supplies,Desk Organizer,3,18,8.0,0.1
+ORD-00363,2025-05-07,Customer 025,Nairobi,Office Supplies,Desk Organizer,3,18,8.0,0.05
+ORD-00461,2025-05-07,Customer 074,Kisumu,Furniture,Filing Cabinet,8,190,125.0,0.0
+ORD-00480,2025-05-07,Customer 077,Eldoret,Office Supplies,Notebook,4,6,2.2,0.15
+ORD-00030,2025-05-07,Customer 076,Eldoret,Technology,Laptop,6,650,470.0,0.0
+ORD-00037,2025-05-08,Customer 055,Mombasa,Technology,Monitor,8,180,115.0,0.0
+ORD-00345,2025-05-08,Customer 058,Kisumu,Technology,Keyboard,7,35,18.0,0.0
+ORD-00470,2025-05-09,Customer 051,Kisumu,Technology,Keyboard,3,35,18.0,0.0
+ORD-00172,2025-05-09,Customer 006,Kisumu,Furniture,Desk,2,310,205.0,0.2
+ORD-00123,2025-05-10,Customer 063,Nairobi,Office Supplies,Notebook,2,6,2.2,0.1
+ORD-00142,2025-05-10,Customer 001,Eldoret,Office Supplies,Notebook,7,6,2.2,0.15
+ORD-00166,2025-05-11,Customer 070,Mombasa,Furniture,Office Chair,8,220,145.0,0.05
+ORD-00385,2025-05-12,Customer 046,Mombasa,Office Supplies,Paper Pack,8,9,5.0,0.0
+ORD-00549,2025-05-12,Customer 057,Nakuru,Technology,Laptop,1,650,470.0,0.1
+ORD-00494,2025-05-13,Customer 035,Nairobi,Technology,Keyboard,3,35,18.0,0.2
+ORD-00597,2025-05-13,Customer 005,Eldoret,Office Supplies,Paper Pack,7,9,5.0,0.2
+ORD-00085,2025-05-13,Customer 031,Kisumu,Technology,Keyboard,8,35,18.0,0.2
+ORD-00564,2025-05-15,Customer 013,Nairobi,Technology,Keyboard,1,35,18.0,0.0
+ORD-00178,2025-05-16,Customer 034,Eldoret,Furniture,Office Chair,8,220,145.0,0.05
+ORD-00557,2025-05-16,Customer 013,Nairobi,Furniture,Bookshelf,5,160,105.0,0.0
+ORD-00407,2025-05-18,Customer 050,Kisumu,Technology,Mouse,3,22,10.0,0.2
+ORD-00108,2025-05-18,Customer 058,Mombasa,Office Supplies,Pens,2,4,1.1,0.05
+ORD-00013,2025-05-19,Customer 042,Nairobi,Furniture,Table,4,260,170.0,0.2
+ORD-00409,2025-05-19,Customer 056,Nakuru,Technology,Monitor,2,180,115.0,0.0
+ORD-00135,2025-05-20,Customer 011,Eldoret,Furniture,Table,8,260,170.0,0.1
+ORD-00341,2025-05-20,Customer 059,Kisumu,Technology,Laptop,6,650,470.0,0.0
+ORD-00391,2025-05-21,Customer 056,Mombasa,Furniture,Bookshelf,1,160,105.0,0.15
+ORD-00584,2025-05-21,Customer 016,Nairobi,Office Supplies,Paper Pack,7,9,5.0,0.2
+ORD-00460,2025-05-22,Customer 019,Kisumu,Furniture,Desk,3,310,205.0,0.0
+ORD-00005,2025-05-23,Customer 036,Mombasa,Technology,Monitor,7,180,115.0,0.05
+ORD-00038,2025-05-23,Customer 071,Nairobi,Office Supplies,Pens,2,4,1.1,0.1
+ORD-00111,2025-05-24,Customer 025,Nairobi,Furniture,Bookshelf,1,160,105.0,0.15
+ORD-00380,2025-05-25,Customer 034,Kisumu,Office Supplies,Paper Pack,6,9,5.0,0.05
+ORD-00122,2025-05-26,Customer 024,Nairobi,Office Supplies,Paper Pack,8,9,5.0,0.05
+ORD-00077,2025-05-26,Customer 031,Kisumu,Furniture,Table,6,260,170.0,0.0
+ORD-00272,2025-05-27,Customer 016,Kisumu,Office Supplies,Notebook,6,6,2.2,0.05
+ORD-00574,2025-05-27,Customer 050,Nakuru,Furniture,Bookshelf,7,160,105.0,0.05
+ORD-00075,2025-05-27,Customer 057,Nakuru,Technology,Mouse,6,22,10.0,0.1
+ORD-00134,2025-05-28,Customer 039,Nakuru,Office Supplies,Notebook,8,6,2.2,0.2
+ORD-00141,2025-05-28,Customer 012,Kisumu,Furniture,Filing Cabinet,1,190,125.0,0.1
+ORD-00447,2025-05-28,Customer 080,Nairobi,Technology,Monitor,6,180,115.0,0.1
+ORD-00219,2025-05-29,Customer 056,Mombasa,Office Supplies,Notebook,1,6,2.2,0.1
+ORD-00305,2025-05-29,Customer 021,Kisumu,Office Supplies,Stapler,7,12,5.5,0.0
+ORD-00423,2025-05-30,Customer 064,Mombasa,Furniture,Office Chair,7,220,145.0,0.2
+ORD-00420,2025-05-30,Customer 049,Kisumu,Furniture,Filing Cabinet,4,190,125.0,0.05
+ORD-00513,2025-05-30,Customer 042,Kisumu,Office Supplies,Desk Organizer,7,18,8.0,0.2
+ORD-00270,2025-05-31,Customer 041,Kisumu,Technology,Laptop,4,650,470.0,0.0
+ORD-00600,2025-05-31,Customer 034,Eldoret,Technology,Mouse,3,22,10.0,0.2
+ORD-00174,2025-06-01,Customer 017,Eldoret,Office Supplies,Paper Pack,3,9,5.0,0.0
+ORD-00176,2025-06-01,Customer 010,Mombasa,Furniture,Bookshelf,2,160,105.0,0.1
+ORD-00091,2025-06-02,Customer 029,Kisumu,Office Supplies,Paper Pack,4,9,5.0,0.1
+ORD-00072,2025-06-03,Customer 052,Kisumu,Furniture,Bookshelf,7,160,105.0,0.05
+ORD-00318,2025-06-03,Customer 073,Kisumu,Furniture,Bookshelf,8,160,105.0,0.2
+ORD-00415,2025-06-03,Customer 032,Nakuru,Office Supplies,Notebook,6,6,2.2,0.05
+ORD-00196,2025-06-04,Customer 052,Nakuru,Office Supplies,Notebook,1,6,2.2,0.1
+ORD-00294,2025-06-05,Customer 029,Kisumu,Technology,Monitor,6,180,115.0,0.2
+ORD-00505,2025-06-05,Customer 048,Eldoret,Furniture,Table,4,260,170.0,0.1
+ORD-00250,2025-06-08,Customer 074,Nakuru,Office Supplies,Pens,6,4,1.1,0.2
+ORD-00433,2025-06-09,Customer 062,Kisumu,Office Supplies,Paper Pack,4,9,5.0,0.15
+ORD-00283,2025-06-10,Customer 004,Mombasa,Furniture,Bookshelf,4,160,105.0,0.0
+ORD-00222,2025-06-10,Customer 054,Kisumu,Furniture,Filing Cabinet,7,190,125.0,0.2
+ORD-00049,2025-06-11,Customer 073,Nairobi,Technology,Laptop,8,650,470.0,0.15
+ORD-00329,2025-06-12,Customer 016,Eldoret,Office Supplies,Desk Organizer,5,18,8.0,0.05
+ORD-00155,2025-06-12,Customer 020,Nakuru,Furniture,Filing Cabinet,7,190,125.0,0.1
+ORD-00532,2025-06-13,Customer 008,Nakuru,Furniture,Desk,1,310,205.0,0.05
+ORD-00466,2025-06-15,Customer 063,Kisumu,Office Supplies,Desk Organizer,3,18,8.0,0.15
+ORD-00110,2025-06-16,Customer 034,Kisumu,Technology,Mouse,4,22,10.0,0.05
+ORD-00276,2025-06-17,Customer 078,Nakuru,Furniture,Bookshelf,5,160,105.0,0.1
+ORD-00346,2025-06-18,Customer 047,Mombasa,Office Supplies,Stapler,1,12,5.5,0.05
+ORD-00384,2025-06-18,Customer 071,Kisumu,Technology,Mouse,4,22,10.0,0.1
+ORD-00240,2025-06-18,Customer 033,Eldoret,Technology,Printer,7,140,92.0,0.05
+ORD-00539,2025-06-19,Customer 023,Kisumu,Furniture,Desk,3,310,205.0,0.05
+ORD-00556,2025-06-19,Customer 071,Eldoret,Technology,Monitor,7,180,115.0,0.2
+ORD-00316,2025-06-20,Customer 078,Eldoret,Office Supplies,Stapler,8,12,5.5,0.0
+ORD-00140,2025-06-20,Customer 053,Nakuru,Office Supplies,Notebook,3,6,2.2,0.05
+ORD-00096,2025-06-22,Customer 011,Nakuru,Office Supplies,Desk Organizer,7,18,8.0,0.05
+ORD-00578,2025-06-22,Customer 013,Mombasa,Office Supplies,Desk Organizer,5,18,8.0,0.1
+ORD-00553,2025-06-25,Customer 010,Eldoret,Technology,Mouse,3,22,10.0,0.2
+ORD-00153,2025-06-26,Customer 042,Mombasa,Office Supplies,Stapler,7,12,5.5,0.1
+ORD-00007,2025-06-26,Customer 059,Eldoret,Furniture,Bookshelf,1,160,105.0,0.2
+ORD-00216,2025-06-26,Customer 076,Nakuru,Office Supplies,Notebook,5,6,2.2,0.2
+ORD-00255,2025-06-28,Customer 065,Kisumu,Technology,Mouse,1,22,10.0,0.1
+ORD-00066,2025-06-29,Customer 069,Kisumu,Furniture,Table,7,260,170.0,0.2
+ORD-00458,2025-06-29,Customer 038,Kisumu,Furniture,Bookshelf,3,160,105.0,0.05
+ORD-00116,2025-06-30,Customer 033,Mombasa,Furniture,Filing Cabinet,5,190,125.0,0.05
+ORD-00061,2025-07-01,Customer 021,Mombasa,Furniture,Filing Cabinet,3,190,125.0,0.0
+ORD-00535,2025-07-01,Customer 041,Kisumu,Technology,Monitor,4,180,115.0,0.15
+ORD-00411,2025-07-01,Customer 002,Kisumu,Furniture,Office Chair,6,220,145.0,0.1
+ORD-00327,2025-07-01,Customer 032,Kisumu,Furniture,Bookshelf,8,160,105.0,0.0
+ORD-00448,2025-07-03,Customer 050,Eldoret,Technology,Mouse,3,22,10.0,0.0
+ORD-00408,2025-07-04,Customer 057,Kisumu,Technology,Laptop,1,650,470.0,0.05
+ORD-00312,2025-07-05,Customer 065,Nakuru,Furniture,Bookshelf,2,160,105.0,0.1
+ORD-00025,2025-07-05,Customer 073,Nairobi,Office Supplies,Pens,1,4,1.1,0.0
+ORD-00244,2025-07-05,Customer 028,Kisumu,Technology,Keyboard,5,35,18.0,0.0
+ORD-00288,2025-07-05,Customer 018,Mombasa,Furniture,Desk,2,310,205.0,0.0
+ORD-00060,2025-07-06,Customer 032,Nairobi,Technology,Keyboard,4,35,18.0,0.2
+ORD-00071,2025-07-06,Customer 041,Nairobi,Office Supplies,Notebook,6,6,2.2,0.15
+ORD-00175,2025-07-07,Customer 033,Nakuru,Furniture,Table,5,260,170.0,0.0
+ORD-00311,2025-07-07,Customer 072,Mombasa,Technology,Mouse,1,22,10.0,0.15
+ORD-00563,2025-07-09,Customer 057,Nakuru,Technology,Mouse,1,22,10.0,0.05
+ORD-00213,2025-07-09,Customer 020,Mombasa,Office Supplies,Desk Organizer,2,18,8.0,0.0
+ORD-00282,2025-07-10,Customer 047,Nakuru,Office Supplies,Notebook,3,6,2.2,0.15
+ORD-00203,2025-07-11,Customer 011,Nairobi,Technology,Mouse,2,22,10.0,0.0
+ORD-00314,2025-07-11,Customer 026,Eldoret,Office Supplies,Stapler,6,12,5.5,0.0
+ORD-00591,2025-07-12,Customer 060,Kisumu,Office Supplies,Paper Pack,5,9,5.0,0.0
+ORD-00360,2025-07-12,Customer 045,Nairobi,Technology,Printer,3,140,92.0,0.2
+ORD-00326,2025-07-12,Customer 044,Eldoret,Office Supplies,Pens,8,4,1.1,0.15
+ORD-00544,2025-07-13,Customer 001,Eldoret,Office Supplies,Desk Organizer,3,18,8.0,0.0
+ORD-00425,2025-07-13,Customer 052,Eldoret,Technology,Mouse,8,22,10.0,0.15
+ORD-00041,2025-07-14,Customer 037,Nakuru,Technology,Mouse,5,22,10.0,0.1
+ORD-00322,2025-07-14,Customer 015,Mombasa,Technology,Monitor,1,180,115.0,0.15
+ORD-00020,2025-07-15,Customer 002,Nairobi,Furniture,Filing Cabinet,5,190,125.0,0.15
+ORD-00179,2025-07-15,Customer 030,Nakuru,Furniture,Bookshelf,2,160,105.0,0.2
+ORD-00169,2025-07-15,Customer 038,Nairobi,Furniture,Bookshelf,5,160,105.0,0.2
+ORD-00530,2025-07-15,Customer 063,Kisumu,Furniture,Bookshelf,8,160,105.0,0.15
+ORD-00402,2025-07-16,Customer 045,Nairobi,Furniture,Desk,2,310,205.0,0.15
+ORD-00281,2025-07-16,Customer 058,Kisumu,Furniture,Office Chair,3,220,145.0,0.2
+ORD-00239,2025-07-18,Customer 043,Nairobi,Office Supplies,Desk Organizer,1,18,8.0,0.2
+ORD-00439,2025-07-19,Customer 009,Eldoret,Technology,Monitor,4,180,115.0,0.05
+ORD-00442,2025-07-20,Customer 059,Eldoret,Furniture,Office Chair,6,220,145.0,0.05
+ORD-00545,2025-07-20,Customer 041,Eldoret,Furniture,Office Chair,3,220,145.0,0.15
+ORD-00421,2025-07-21,Customer 070,Mombasa,Office Supplies,Notebook,4,6,2.2,0.15
+ORD-00558,2025-07-21,Customer 007,Kisumu,Furniture,Table,8,260,170.0,0.0
+ORD-00519,2025-07-22,Customer 023,Nairobi,Furniture,Office Chair,5,220,145.0,0.05
+ORD-00487,2025-07-23,Customer 052,Nairobi,Furniture,Bookshelf,7,160,105.0,0.1
+ORD-00303,2025-07-24,Customer 031,Nakuru,Technology,Keyboard,2,35,18.0,0.05
+ORD-00202,2025-07-24,Customer 041,Kisumu,Office Supplies,Notebook,6,6,2.2,0.1
+ORD-00344,2025-07-25,Customer 062,Kisumu,Furniture,Office Chair,3,220,145.0,0.0
+ORD-00503,2025-07-25,Customer 042,Nairobi,Technology,Mouse,5,22,10.0,0.05
+ORD-00522,2025-07-25,Customer 003,Nairobi,Office Supplies,Notebook,5,6,2.2,0.0
+ORD-00582,2025-07-26,Customer 025,Mombasa,Technology,Printer,1,140,92.0,0.0
+ORD-00394,2025-07-27,Customer 029,Kisumu,Office Supplies,Stapler,4,12,5.5,0.2
+ORD-00520,2025-07-27,Customer 060,Nairobi,Office Supplies,Stapler,4,12,5.5,0.0
+ORD-00040,2025-07-28,Customer 008,Mombasa,Office Supplies,Paper Pack,4,9,5.0,0.1
+ORD-00147,2025-07-28,Customer 016,Mombasa,Technology,Monitor,2,180,115.0,0.1
+ORD-00516,2025-07-28,Customer 058,Kisumu,Technology,Printer,6,140,92.0,0.0
+ORD-00478,2025-07-30,Customer 013,Mombasa,Furniture,Filing Cabinet,4,190,125.0,0.0
+ORD-00291,2025-07-30,Customer 041,Nairobi,Office Supplies,Stapler,2,12,5.5,0.0
+ORD-00324,2025-07-30,Customer 008,Mombasa,Furniture,Table,8,260,170.0,0.2
+ORD-00062,2025-07-31,Customer 032,Kisumu,Technology,Monitor,6,180,115.0,0.1
+ORD-00412,2025-07-31,Customer 067,Mombasa,Office Supplies,Notebook,4,6,2.2,0.15
+ORD-00501,2025-08-02,Customer 074,Kisumu,Furniture,Bookshelf,5,160,105.0,0.0
+ORD-00299,2025-08-02,Customer 070,Kisumu,Furniture,Office Chair,8,220,145.0,0.2
+ORD-00338,2025-08-02,Customer 024,Kisumu,Technology,Laptop,7,650,470.0,0.1
+ORD-00485,2025-08-04,Customer 010,Nairobi,Office Supplies,Stapler,3,12,5.5,0.1
+ORD-00474,2025-08-05,Customer 030,Nakuru,Furniture,Desk,8,310,205.0,0.0
+ORD-00028,2025-08-05,Customer 040,Nakuru,Technology,Printer,4,140,92.0,0.2
+ORD-00132,2025-08-06,Customer 020,Kisumu,Technology,Printer,4,140,92.0,0.2
+ORD-00084,2025-08-07,Customer 061,Nakuru,Furniture,Filing Cabinet,3,190,125.0,0.2
+ORD-00263,2025-08-08,Customer 074,Nakuru,Technology,Printer,6,140,92.0,0.0
+ORD-00127,2025-08-08,Customer 013,Mombasa,Office Supplies,Stapler,1,12,5.5,0.15
+ORD-00418,2025-08-09,Customer 042,Eldoret,Furniture,Table,3,260,170.0,0.05
+ORD-00275,2025-08-09,Customer 014,Nairobi,Furniture,Desk,5,310,205.0,0.05
+ORD-00163,2025-08-09,Customer 024,Mombasa,Technology,Monitor,7,180,115.0,0.15
+ORD-00106,2025-08-10,Customer 023,Eldoret,Office Supplies,Paper Pack,3,9,5.0,0.1
+ORD-00204,2025-08-10,Customer 008,Eldoret,Technology,Keyboard,3,35,18.0,0.15
+ORD-00273,2025-08-12,Customer 024,Nakuru,Office Supplies,Paper Pack,7,9,5.0,0.05
+ORD-00139,2025-08-12,Customer 045,Nakuru,Furniture,Filing Cabinet,2,190,125.0,0.1
+ORD-00092,2025-08-12,Customer 052,Mombasa,Office Supplies,Notebook,7,6,2.2,0.05
+ORD-00086,2025-08-14,Customer 043,Kisumu,Technology,Keyboard,4,35,18.0,0.05
+ORD-00231,2025-08-14,Customer 039,Kisumu,Technology,Mouse,8,22,10.0,0.2
+ORD-00173,2025-08-14,Customer 017,Nairobi,Technology,Printer,6,140,92.0,0.2
+ORD-00186,2025-08-16,Customer 048,Eldoret,Office Supplies,Pens,6,4,1.1,0.0
+ORD-00249,2025-08-16,Customer 069,Mombasa,Furniture,Bookshelf,8,160,105.0,0.0
+ORD-00548,2025-08-17,Customer 009,Kisumu,Technology,Keyboard,4,35,18.0,0.0
+ORD-00230,2025-08-18,Customer 041,Mombasa,Furniture,Table,6,260,170.0,0.2
+ORD-00375,2025-08-19,Customer 035,Nakuru,Office Supplies,Notebook,4,6,2.2,0.0
+ORD-00254,2025-08-19,Customer 029,Nakuru,Furniture,Desk,7,310,205.0,0.0
+ORD-00292,2025-08-19,Customer 071,Eldoret,Office Supplies,Stapler,6,12,5.5,0.0
+ORD-00235,2025-08-19,Customer 061,Eldoret,Furniture,Desk,6,310,205.0,0.15
+ORD-00514,2025-08-20,Customer 018,Eldoret,Office Supplies,Pens,2,4,1.1,0.0
+ORD-00188,2025-08-21,Customer 043,Mombasa,Technology,Monitor,1,180,115.0,0.0
+ORD-00301,2025-08-21,Customer 054,Nakuru,Technology,Laptop,3,650,470.0,0.1
+ORD-00200,2025-08-21,Customer 015,Eldoret,Furniture,Table,7,260,170.0,0.0
+ORD-00389,2025-08-22,Customer 063,Nairobi,Office Supplies,Notebook,8,6,2.2,0.2
+ORD-00168,2025-08-22,Customer 014,Mombasa,Office Supplies,Pens,7,4,1.1,0.1
+ORD-00437,2025-08-25,Customer 056,Nakuru,Technology,Mouse,3,22,10.0,0.0
+ORD-00251,2025-08-25,Customer 026,Eldoret,Office Supplies,Paper Pack,7,9,5.0,0.0
+ORD-00143,2025-08-25,Customer 047,Eldoret,Office Supplies,Notebook,4,6,2.2,0.15
+ORD-00109,2025-08-26,Customer 004,Nakuru,Furniture,Table,7,260,170.0,0.05
+ORD-00431,2025-08-26,Customer 004,Nakuru,Furniture,Table,3,260,170.0,0.05
+ORD-00302,2025-08-26,Customer 041,Kisumu,Technology,Keyboard,3,35,18.0,0.05
+ORD-00373,2025-08-26,Customer 072,Eldoret,Technology,Printer,7,140,92.0,0.1
+ORD-00517,2025-08-26,Customer 039,Eldoret,Office Supplies,Notebook,2,6,2.2,0.0
+ORD-00089,2025-08-27,Customer 050,Eldoret,Office Supplies,Notebook,4,6,2.2,0.1
+ORD-00093,2025-08-28,Customer 076,Eldoret,Technology,Printer,1,140,92.0,0.1
+ORD-00307,2025-08-28,Customer 012,Nakuru,Office Supplies,Desk Organizer,8,18,8.0,0.0
+ORD-00158,2025-08-29,Customer 011,Kisumu,Office Supplies,Desk Organizer,7,18,8.0,0.2
+ORD-00130,2025-08-29,Customer 037,Nakuru,Office Supplies,Notebook,4,6,2.2,0.05
+ORD-00335,2025-08-30,Customer 021,Nakuru,Technology,Monitor,1,180,115.0,0.15
+ORD-00258,2025-08-30,Customer 079,Nairobi,Furniture,Desk,8,310,205.0,0.1
+ORD-00034,2025-08-31,Customer 013,Nairobi,Technology,Mouse,7,22,10.0,0.0
+ORD-00115,2025-08-31,Customer 071,Kisumu,Furniture,Table,6,260,170.0,0.1
+ORD-00561,2025-08-31,Customer 063,Kisumu,Technology,Keyboard,7,35,18.0,0.1
+ORD-00434,2025-09-01,Customer 009,Kisumu,Technology,Mouse,8,22,10.0,0.05
+ORD-00319,2025-09-01,Customer 015,Nakuru,Technology,Keyboard,6,35,18.0,0.2
+ORD-00528,2025-09-03,Customer 018,Nakuru,Technology,Laptop,5,650,470.0,0.1
+ORD-00245,2025-09-06,Customer 010,Kisumu,Technology,Monitor,3,180,115.0,0.0
+ORD-00354,2025-09-08,Customer 059,Mombasa,Technology,Printer,8,140,92.0,0.0
+ORD-00405,2025-09-09,Customer 024,Eldoret,Technology,Keyboard,7,35,18.0,0.1
+ORD-00506,2025-09-10,Customer 001,Nakuru,Technology,Printer,4,140,92.0,0.0
+ORD-00289,2025-09-10,Customer 071,Mombasa,Technology,Keyboard,6,35,18.0,0.1
+ORD-00414,2025-09-10,Customer 036,Nakuru,Technology,Laptop,3,650,470.0,0.1
+ORD-00483,2025-09-11,Customer 077,Nairobi,Office Supplies,Notebook,4,6,2.2,0.1
+ORD-00171,2025-09-12,Customer 025,Eldoret,Office Supplies,Pens,6,4,1.1,0.0
+ORD-00525,2025-09-12,Customer 046,Mombasa,Technology,Mouse,7,22,10.0,0.0
+ORD-00397,2025-09-13,Customer 006,Mombasa,Office Supplies,Desk Organizer,2,18,8.0,0.15
+ORD-00284,2025-09-13,Customer 034,Nakuru,Furniture,Filing Cabinet,2,190,125.0,0.05
+ORD-00144,2025-09-13,Customer 035,Eldoret,Furniture,Filing Cabinet,1,190,125.0,0.0
+ORD-00148,2025-09-13,Customer 062,Nakuru,Furniture,Bookshelf,5,160,105.0,0.1
+ORD-00449,2025-09-16,Customer 063,Nakuru,Furniture,Filing Cabinet,7,190,125.0,0.2
+ORD-00308,2025-09-16,Customer 046,Nairobi,Office Supplies,Pens,4,4,1.1,0.15
+ORD-00151,2025-09-17,Customer 039,Eldoret,Office Supplies,Notebook,5,6,2.2,0.2
+ORD-00207,2025-09-17,Customer 014,Kisumu,Technology,Monitor,8,180,115.0,0.0
+ORD-00426,2025-09-17,Customer 069,Eldoret,Furniture,Filing Cabinet,1,190,125.0,0.05
+ORD-00265,2025-09-17,Customer 061,Nairobi,Furniture,Table,1,260,170.0,0.1
+ORD-00482,2025-09-18,Customer 007,Mombasa,Technology,Mouse,5,22,10.0,0.2
+ORD-00315,2025-09-18,Customer 005,Mombasa,Office Supplies,Stapler,1,12,5.5,0.0
+ORD-00150,2025-09-18,Customer 054,Kisumu,Furniture,Desk,2,310,205.0,0.05
+ORD-00445,2025-09-19,Customer 050,Nakuru,Office Supplies,Paper Pack,3,9,5.0,0.15
+ORD-00593,2025-09-19,Customer 014,Nakuru,Furniture,Bookshelf,5,160,105.0,0.05
+ORD-00227,2025-09-19,Customer 019,Mombasa,Technology,Keyboard,6,35,18.0,0.2
+ORD-00381,2025-09-20,Customer 061,Kisumu,Office Supplies,Paper Pack,2,9,5.0,0.2
+ORD-00279,2025-09-20,Customer 078,Nakuru,Furniture,Desk,1,310,205.0,0.0
+ORD-00355,2025-09-20,Customer 060,Kisumu,Office Supplies,Paper Pack,1,9,5.0,0.15
+ORD-00463,2025-09-21,Customer 063,Kisumu,Furniture,Bookshelf,6,160,105.0,0.1
+ORD-00271,2025-09-21,Customer 005,Mombasa,Office Supplies,Stapler,8,12,5.5,0.05
+ORD-00581,2025-09-22,Customer 040,Eldoret,Office Supplies,Notebook,3,6,2.2,0.0
+ORD-00295,2025-09-23,Customer 071,Kisumu,Office Supplies,Notebook,5,6,2.2,0.0
+ORD-00325,2025-09-23,Customer 062,Eldoret,Technology,Printer,6,140,92.0,0.2
+ORD-00572,2025-09-24,Customer 054,Mombasa,Office Supplies,Notebook,7,6,2.2,0.0
+ORD-00238,2025-09-26,Customer 048,Kisumu,Furniture,Table,3,260,170.0,0.05
+ORD-00371,2025-09-26,Customer 039,Nakuru,Office Supplies,Paper Pack,7,9,5.0,0.0
+ORD-00387,2025-09-26,Customer 053,Mombasa,Technology,Laptop,1,650,470.0,0.0
+ORD-00217,2025-09-27,Customer 051,Eldoret,Furniture,Bookshelf,1,160,105.0,0.0
+ORD-00393,2025-09-27,Customer 011,Kisumu,Office Supplies,Desk Organizer,5,18,8.0,0.1
+ORD-00157,2025-09-27,Customer 020,Nairobi,Office Supplies,Notebook,3,6,2.2,0.1
+ORD-00484,2025-09-28,Customer 050,Eldoret,Technology,Keyboard,6,35,18.0,0.0
+ORD-00260,2025-09-28,Customer 039,Nairobi,Office Supplies,Notebook,5,6,2.2,0.0
+ORD-00212,2025-09-29,Customer 044,Mombasa,Technology,Mouse,7,22,10.0,0.1
+ORD-00533,2025-09-29,Customer 013,Mombasa,Office Supplies,Stapler,4,12,5.5,0.0
+ORD-00465,2025-10-01,Customer 064,Kisumu,Office Supplies,Pens,7,4,1.1,0.0
+ORD-00017,2025-10-03,Customer 052,Kisumu,Office Supplies,Stapler,7,12,5.5,0.15
+ORD-00024,2025-10-04,Customer 003,Nairobi,Furniture,Office Chair,6,220,145.0,0.1
+ORD-00087,2025-10-04,Customer 050,Mombasa,Technology,Monitor,3,180,115.0,0.0
+ORD-00537,2025-10-05,Customer 012,Nairobi,Office Supplies,Pens,8,4,1.1,0.0
+ORD-00454,2025-10-07,Customer 032,Kisumu,Technology,Mouse,2,22,10.0,0.2
+ORD-00199,2025-10-08,Customer 068,Kisumu,Furniture,Bookshelf,7,160,105.0,0.15
+ORD-00313,2025-10-09,Customer 013,Nakuru,Office Supplies,Stapler,2,12,5.5,0.0
+ORD-00586,2025-10-10,Customer 012,Kisumu,Office Supplies,Desk Organizer,3,18,8.0,0.05
+ORD-00396,2025-10-10,Customer 022,Nairobi,Office Supplies,Notebook,1,6,2.2,0.2
+ORD-00129,2025-10-10,Customer 058,Eldoret,Technology,Monitor,1,180,115.0,0.1
+ORD-00073,2025-10-11,Customer 049,Mombasa,Technology,Monitor,7,180,115.0,0.2
+ORD-00121,2025-10-11,Customer 002,Eldoret,Office Supplies,Pens,8,4,1.1,0.0
+ORD-00504,2025-10-11,Customer 038,Eldoret,Office Supplies,Notebook,6,6,2.2,0.0
+ORD-00208,2025-10-12,Customer 029,Nakuru,Office Supplies,Notebook,5,6,2.2,0.15
+ORD-00328,2025-10-13,Customer 027,Nakuru,Office Supplies,Pens,5,4,1.1,0.05
+ORD-00410,2025-10-13,Customer 004,Nairobi,Furniture,Table,7,260,170.0,0.0
+ORD-00205,2025-10-15,Customer 046,Nakuru,Furniture,Bookshelf,2,160,105.0,0.1
+ORD-00004,2025-10-15,Customer 058,Eldoret,Technology,Printer,7,140,92.0,0.0
+ORD-00209,2025-10-15,Customer 035,Nairobi,Furniture,Table,1,260,170.0,0.15
+ORD-00352,2025-10-16,Customer 069,Mombasa,Technology,Laptop,4,650,470.0,0.15
+ORD-00401,2025-10-16,Customer 070,Kisumu,Technology,Printer,7,140,92.0,0.2
+ORD-00531,2025-10-17,Customer 024,Nairobi,Furniture,Bookshelf,7,160,105.0,0.05
+ORD-00015,2025-10-18,Customer 064,Nakuru,Furniture,Bookshelf,4,160,105.0,0.2
+ORD-00575,2025-10-20,Customer 036,Nakuru,Furniture,Filing Cabinet,1,190,125.0,0.0
+ORD-00568,2025-10-20,Customer 058,Mombasa,Furniture,Table,3,260,170.0,0.0
+ORD-00459,2025-10-21,Customer 053,Nairobi,Office Supplies,Stapler,2,12,5.5,0.0
+ORD-00453,2025-10-21,Customer 006,Nakuru,Technology,Keyboard,6,35,18.0,0.15
+ORD-00102,2025-10-22,Customer 026,Nairobi,Furniture,Filing Cabinet,7,190,125.0,0.2
+ORD-00009,2025-10-23,Customer 030,Kisumu,Technology,Laptop,1,650,470.0,0.2
+ORD-00368,2025-10-23,Customer 019,Eldoret,Furniture,Bookshelf,4,160,105.0,0.05
+ORD-00124,2025-10-23,Customer 073,Kisumu,Furniture,Office Chair,3,220,145.0,0.0
+ORD-00306,2025-10-23,Customer 064,Eldoret,Furniture,Bookshelf,4,160,105.0,0.0
+ORD-00152,2025-10-24,Customer 069,Nakuru,Furniture,Filing Cabinet,3,190,125.0,0.1
+ORD-00297,2025-10-25,Customer 006,Nairobi,Technology,Monitor,6,180,115.0,0.15
+ORD-00464,2025-10-25,Customer 046,Nairobi,Technology,Laptop,8,650,470.0,0.2
+ORD-00430,2025-10-25,Customer 048,Nakuru,Furniture,Table,4,260,170.0,0.1
+ORD-00165,2025-10-26,Customer 033,Nakuru,Technology,Monitor,8,180,115.0,0.2
+ORD-00059,2025-10-26,Customer 006,Kisumu,Furniture,Desk,7,310,205.0,0.0
+ORD-00320,2025-10-26,Customer 075,Eldoret,Office Supplies,Notebook,8,6,2.2,0.05
+ORD-00486,2025-10-28,Customer 006,Nairobi,Technology,Laptop,5,650,470.0,0.0
+ORD-00184,2025-10-28,Customer 013,Nakuru,Furniture,Desk,7,310,205.0,0.2
+ORD-00490,2025-10-28,Customer 056,Mombasa,Furniture,Office Chair,5,220,145.0,0.2
+ORD-00225,2025-10-29,Customer 040,Kisumu,Office Supplies,Stapler,2,12,5.5,0.1
+ORD-00536,2025-10-30,Customer 025,Nakuru,Technology,Keyboard,3,35,18.0,0.15
+ORD-00232,2025-10-30,Customer 060,Nakuru,Technology,Keyboard,2,35,18.0,0.05
+ORD-00512,2025-10-31,Customer 017,Mombasa,Furniture,Office Chair,7,220,145.0,0.2
+ORD-00195,2025-10-31,Customer 006,Eldoret,Technology,Mouse,4,22,10.0,0.15
+ORD-00103,2025-10-31,Customer 039,Eldoret,Furniture,Desk,2,310,205.0,0.2
+ORD-00234,2025-11-01,Customer 071,Nairobi,Furniture,Filing Cabinet,8,190,125.0,0.15
+ORD-00404,2025-11-01,Customer 035,Nakuru,Office Supplies,Desk Organizer,1,18,8.0,0.2
+ORD-00416,2025-11-01,Customer 018,Kisumu,Furniture,Desk,8,310,205.0,0.0
+ORD-00262,2025-11-02,Customer 019,Kisumu,Furniture,Office Chair,4,220,145.0,0.2
+ORD-00119,2025-11-02,Customer 030,Kisumu,Office Supplies,Notebook,4,6,2.2,0.05
+ORD-00215,2025-11-07,Customer 066,Nairobi,Office Supplies,Paper Pack,5,9,5.0,0.0
+ORD-00069,2025-11-07,Customer 025,Kisumu,Furniture,Office Chair,7,220,145.0,0.15
+ORD-00350,2025-11-07,Customer 028,Mombasa,Office Supplies,Paper Pack,8,9,5.0,0.15
+ORD-00481,2025-11-08,Customer 067,Eldoret,Office Supplies,Notebook,5,6,2.2,0.0
+ORD-00492,2025-11-08,Customer 002,Mombasa,Technology,Keyboard,3,35,18.0,0.0
+ORD-00198,2025-11-08,Customer 080,Eldoret,Technology,Laptop,3,650,470.0,0.05
+ORD-00012,2025-11-08,Customer 060,Nakuru,Furniture,Desk,4,310,205.0,0.0
+ORD-00079,2025-11-09,Customer 074,Mombasa,Technology,Mouse,7,22,10.0,0.2
+ORD-00343,2025-11-09,Customer 042,Nairobi,Furniture,Filing Cabinet,7,190,125.0,0.15
+ORD-00052,2025-11-10,Customer 071,Kisumu,Furniture,Table,1,260,170.0,0.2
+ORD-00290,2025-11-10,Customer 062,Eldoret,Technology,Laptop,5,650,470.0,0.1
+ORD-00349,2025-11-11,Customer 020,Nakuru,Technology,Monitor,3,180,115.0,0.1
+ORD-00278,2025-11-11,Customer 052,Kisumu,Office Supplies,Desk Organizer,1,18,8.0,0.0
+ORD-00185,2025-11-12,Customer 048,Mombasa,Office Supplies,Desk Organizer,1,18,8.0,0.2
+ORD-00074,2025-11-12,Customer 001,Kisumu,Furniture,Bookshelf,7,160,105.0,0.15
+ORD-00214,2025-11-13,Customer 055,Nakuru,Technology,Laptop,5,650,470.0,0.1
+ORD-00527,2025-11-14,Customer 053,Eldoret,Furniture,Desk,5,310,205.0,0.1
+ORD-00128,2025-11-17,Customer 031,Mombasa,Technology,Keyboard,2,35,18.0,0.0
+ORD-00462,2025-11-18,Customer 012,Nakuru,Office Supplies,Paper Pack,8,9,5.0,0.0
+ORD-00388,2025-11-19,Customer 028,Eldoret,Technology,Laptop,3,650,470.0,0.0
+ORD-00056,2025-11-21,Customer 043,Mombasa,Office Supplies,Desk Organizer,1,18,8.0,0.0
+ORD-00424,2025-11-21,Customer 020,Nakuru,Office Supplies,Pens,5,4,1.1,0.2
+ORD-00266,2025-11-22,Customer 003,Kisumu,Office Supplies,Desk Organizer,5,18,8.0,0.2
+ORD-00181,2025-11-22,Customer 018,Nairobi,Office Supplies,Desk Organizer,7,18,8.0,0.0
+ORD-00427,2025-11-23,Customer 046,Mombasa,Technology,Laptop,4,650,470.0,0.2
+ORD-00057,2025-11-23,Customer 055,Eldoret,Office Supplies,Pens,8,4,1.1,0.15
+ORD-00599,2025-11-23,Customer 072,Mombasa,Office Supplies,Desk Organizer,5,18,8.0,0.0
+ORD-00001,2025-11-24,Customer 029,Mombasa,Technology,Laptop,5,650,470.0,0.0
+ORD-00488,2025-11-24,Customer 011,Kisumu,Furniture,Table,3,260,170.0,0.05
+ORD-00300,2025-11-25,Customer 052,Kisumu,Office Supplies,Paper Pack,4,9,5.0,0.2
+ORD-00340,2025-11-25,Customer 065,Nakuru,Furniture,Table,8,260,170.0,0.0
+ORD-00016,2025-11-26,Customer 032,Eldoret,Office Supplies,Pens,5,4,1.1,0.0
+ORD-00187,2025-11-27,Customer 025,Nairobi,Office Supplies,Notebook,7,6,2.2,0.05
+ORD-00337,2025-11-27,Customer 005,Mombasa,Technology,Laptop,4,650,470.0,0.15
+ORD-00113,2025-11-27,Customer 012,Kisumu,Furniture,Filing Cabinet,8,190,125.0,0.0
+ORD-00580,2025-11-27,Customer 053,Nakuru,Technology,Monitor,8,180,115.0,0.0
+ORD-00237,2025-11-27,Customer 057,Nakuru,Technology,Laptop,4,650,470.0,0.2
+ORD-00588,2025-11-28,Customer 053,Eldoret,Technology,Monitor,5,180,115.0,0.2
+ORD-00428,2025-11-28,Customer 056,Nairobi,Furniture,Office Chair,7,220,145.0,0.05
+ORD-00098,2025-11-30,Customer 003,Eldoret,Technology,Laptop,4,650,470.0,0.0
+ORD-00107,2025-11-30,Customer 056,Eldoret,Office Supplies,Stapler,8,12,5.5,0.1
+ORD-00336,2025-12-01,Customer 042,Kisumu,Office Supplies,Paper Pack,4,9,5.0,0.05
+ORD-00555,2025-12-01,Customer 007,Nairobi,Technology,Printer,7,140,92.0,0.0
+ORD-00229,2025-12-02,Customer 073,Eldoret,Technology,Monitor,8,180,115.0,0.1
+ORD-00047,2025-12-03,Customer 027,Kisumu,Furniture,Table,6,260,170.0,0.05
+ORD-00534,2025-12-03,Customer 074,Nakuru,Technology,Keyboard,1,35,18.0,0.0
+ORD-00035,2025-12-04,Customer 060,Nairobi,Office Supplies,Desk Organizer,7,18,8.0,0.1
+ORD-00170,2025-12-04,Customer 007,Eldoret,Office Supplies,Desk Organizer,1,18,8.0,0.15
+ORD-00027,2025-12-04,Customer 068,Eldoret,Office Supplies,Stapler,3,12,5.5,0.05
+ORD-00065,2025-12-04,Customer 009,Kisumu,Technology,Mouse,6,22,10.0,0.05
+ORD-00596,2025-12-05,Customer 064,Kisumu,Office Supplies,Pens,1,4,1.1,0.2
+ORD-00406,2025-12-05,Customer 010,Nairobi,Office Supplies,Notebook,5,6,2.2,0.0
+ORD-00094,2025-12-06,Customer 060,Mombasa,Technology,Laptop,7,650,470.0,0.0
+ORD-00053,2025-12-06,Customer 014,Eldoret,Technology,Monitor,5,180,115.0,0.0
+ORD-00083,2025-12-08,Customer 079,Eldoret,Furniture,Table,6,260,170.0,0.1
+ORD-00033,2025-12-09,Customer 074,Eldoret,Office Supplies,Pens,3,4,1.1,0.2
+ORD-00565,2025-12-09,Customer 030,Eldoret,Office Supplies,Stapler,7,12,5.5,0.15
+ORD-00029,2025-12-10,Customer 058,Nairobi,Furniture,Bookshelf,8,160,105.0,0.15
+ORD-00377,2025-12-10,Customer 043,Kisumu,Furniture,Desk,8,310,205.0,0.0
+ORD-00036,2025-12-11,Customer 044,Nairobi,Furniture,Office Chair,1,220,145.0,0.1
+ORD-00376,2025-12-11,Customer 025,Eldoret,Furniture,Table,1,260,170.0,0.0
+ORD-00159,2025-12-12,Customer 063,Eldoret,Furniture,Filing Cabinet,6,190,125.0,0.2
+ORD-00137,2025-12-12,Customer 035,Eldoret,Furniture,Table,1,260,170.0,0.2
+ORD-00076,2025-12-12,Customer 022,Nairobi,Technology,Printer,8,140,92.0,0.2
+ORD-00592,2025-12-13,Customer 014,Nairobi,Furniture,Table,7,260,170.0,0.15
+ORD-00330,2025-12-13,Customer 019,Kisumu,Furniture,Filing Cabinet,7,190,125.0,0.05
+ORD-00351,2025-12-15,Customer 047,Nairobi,Furniture,Office Chair,8,220,145.0,0.15
+ORD-00473,2025-12-15,Customer 044,Nairobi,Office Supplies,Notebook,1,6,2.2,0.2
+ORD-00021,2025-12-16,Customer 038,Nakuru,Furniture,Bookshelf,6,160,105.0,0.0
+ORD-00570,2025-12-16,Customer 034,Kisumu,Office Supplies,Pens,3,4,1.1,0.15
+ORD-00422,2025-12-16,Customer 027,Nakuru,Furniture,Office Chair,8,220,145.0,0.2
+ORD-00467,2025-12-16,Customer 059,Nairobi,Technology,Laptop,2,650,470.0,0.2
+ORD-00395,2025-12-17,Customer 049,Nakuru,Technology,Laptop,2,650,470.0,0.1
+ORD-00413,2025-12-17,Customer 039,Kisumu,Office Supplies,Pens,3,4,1.1,0.05
+ORD-00399,2025-12-17,Customer 041,Nairobi,Office Supplies,Stapler,1,12,5.5,0.0
+ORD-00348,2025-12-18,Customer 038,Kisumu,Furniture,Bookshelf,2,160,105.0,0.2
+ORD-00055,2025-12-18,Customer 007,Nairobi,Furniture,Bookshelf,8,160,105.0,0.05
+ORD-00197,2025-12-18,Customer 011,Kisumu,Technology,Mouse,8,22,10.0,0.0
+ORD-00469,2025-12-19,Customer 012,Kisumu,Technology,Keyboard,3,35,18.0,0.05
+ORD-00224,2025-12-20,Customer 032,Nakuru,Office Supplies,Notebook,7,6,2.2,0.0
+ORD-00577,2025-12-20,Customer 048,Nairobi,Technology,Laptop,8,650,470.0,0.05
+ORD-00274,2025-12-21,Customer 055,Nairobi,Office Supplies,Desk Organizer,5,18,8.0,0.0
+ORD-00419,2025-12-22,Customer 051,Kisumu,Technology,Mouse,6,22,10.0,0.0
+ORD-00379,2025-12-23,Customer 071,Kisumu,Furniture,Desk,7,310,205.0,0.0
+ORD-00269,2025-12-23,Customer 059,Nairobi,Office Supplies,Pens,3,4,1.1,0.0
+ORD-00080,2025-12-23,Customer 019,Nairobi,Office Supplies,Paper Pack,7,9,5.0,0.0
+ORD-00042,2025-12-23,Customer 025,Kisumu,Furniture,Table,8,260,170.0,0.0
+ORD-00090,2025-12-23,Customer 001,Kisumu,Technology,Printer,7,140,92.0,0.1
+ORD-00154,2025-12-24,Customer 053,Nairobi,Technology,Printer,7,140,92.0,0.0
+ORD-00471,2025-12-25,Customer 013,Nairobi,Technology,Mouse,2,22,10.0,0.2
+ORD-00493,2025-12-26,Customer 067,Eldoret,Technology,Monitor,8,180,115.0,0.05
+ORD-00088,2025-12-28,Customer 043,Eldoret,Technology,Laptop,7,650,470.0,0.1
+ORD-00543,2025-12-29,Customer 076,Mombasa,Furniture,Table,6,260,170.0,0.0
+ORD-00598,2025-12-29,Customer 029,Eldoret,Furniture,Desk,6,310,205.0,0.2
+ORD-00287,2025-12-30,Customer 021,Mombasa,Technology,Printer,5,140,92.0,0.05
+ORD-00450,2025-12-30,Customer 073,Nairobi,Office Supplies,Paper Pack,3,9,5.0,0.0
+ORD-00496,2025-12-31,Customer 066,Kisumu,Furniture,Office Chair,8,220,145.0,0.1
+ORD-00253,2025-12-31,Customer 021,Kisumu,Furniture,Office Chair,5,220,145.0,0.0
